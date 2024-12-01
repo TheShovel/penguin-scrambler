@@ -1,2 +1,2 @@
 # Penguin Scrambler
-Project obfuscation tool for PenguinMod
+Project obfuscation tool for PenguinMod/Turbowarp
